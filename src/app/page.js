@@ -1,7 +1,7 @@
 'use client';
 import Link from 'next/link';
 import Pagination from '@/Components/Pagination';
-import HTMLCompiler from '@/Components/HtmlCompiler';
+// import HTMLCompiler from '@/Components/HtmlCompiler';
 
 const HomePage = () => {
   return (
